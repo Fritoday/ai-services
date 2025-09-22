@@ -1,0 +1,3 @@
+com/ai/api/dto/AIResponse.class
+com/ai/api/exception/AIServiceException.class
+com/ai/api/dto/AIRequest.class
